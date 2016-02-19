@@ -1,3 +1,6 @@
+
+use quotes;
+
 -- phpMyAdmin SQL Dump
 -- version 4.1.7
 -- http://www.phpmyadmin.net
