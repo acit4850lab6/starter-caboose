@@ -2,6 +2,17 @@
 Tutorial 5 Starter Webapp - Caboose
 ###################################
 
+************
+Team Members
+************
+
+Matthew Hui- Repo Owner
+Justin Chau
+
+*****
+About
+*****
+
 This is the starter webapp for CodeIgniter Tutorial #5.
 
 Unlike an earlier version, this version is fully functional, just feature incomplete.
@@ -13,7 +24,6 @@ specific quote in detail.
 
 The Viewer controller displays all the quotes on file, by default.
 Each mugshot links to a viewer/quote method call, to display that author's quote.
-
 
 **************
 Intended Usage
